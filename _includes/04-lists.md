@@ -1,4 +1,4 @@
-- Favorite burgers
-    - Shake Shack
-    - The Habit
-    - In-N-Out
+Favorite burgers
+- Shake Shack
+- The Habit
+- In-N-Out
