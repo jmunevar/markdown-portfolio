@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Favorite burgers
+    - Shake Shack
+    - The Habit
+    - In-N-Out
